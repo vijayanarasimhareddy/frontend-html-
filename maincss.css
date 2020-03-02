@@ -1,0 +1,31 @@
+.card{
+    margin: 1% auto;
+    border: 1px solid;
+    width:100%;
+    padding:1%;
+    box-shadow: 8px 8px 8px -2px;
+    text-align: center;
+    border-radius: 5%;
+}
+a{
+    text-decoration: none;
+
+}
+
+.btn{
+    margin-top: 5%;
+    display: block;
+    background:green;
+    color:rgb(247, 247, 247);
+    padding: 1%;
+    text-align: center;
+}
+@media only screen and (min_width:320px) and (max_width:720px){
+.card{
+    width:100%;
+}  
+@media only screen and (min_width:200px) and (max_width:400px){
+    .card{
+        width:90%;
+    }  
+}

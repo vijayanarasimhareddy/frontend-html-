@@ -1,0 +1,22 @@
+{
+    "basics":{
+        "Name":"Vi JaY ReddY",
+        "Role":"Developer",
+        "email":"vijayasimhareddy.talla@gmail.com",
+        "mobile":"+91 6304998126",
+        "Qualifications":[
+            {
+                "Degree":"SSC",
+                "Percentage":9.2
+            },
+            {
+                "Degree":"INTERMEDIATE",
+                "Percentage":96.4
+            },
+            {
+                "Degree":"B.Tech",
+                "Percentage":83
+            }
+        ]
+    }
+}
