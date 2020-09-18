@@ -1,2 +1,0 @@
-# vvit
-first project
